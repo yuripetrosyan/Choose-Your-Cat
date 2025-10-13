@@ -14,9 +14,6 @@ Choose Your Pet is a SwiftUI app that allows users to browse and interact with r
 - **Favorites collection**: Save your favorite images and view them later in a dedicated "Favorites" screen.
 - **Interactive animations**: Uses fun Lottie animations for liking and disliking interactions.
 
-## Screenshots
-
-_Add screenshots here to showcase your app!_
 
 ## Installation
 
